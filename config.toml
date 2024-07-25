@@ -1,6 +1,8 @@
 [theme]
-primaryColor = "Green"
-backgroundColr = "Black"
-secondaryBackgroundColor = "Red"
-font = "sans serif"
+base="dark"
+primaryColor="#ec1616"
+backgroundColor="#020202"
+secondaryBackgroundColor="#4c4b5e"
+font="monospace"
+
 
