@@ -225,7 +225,7 @@ fig6.tight_layout()
 
 st.markdown("<h2 align = 'center'> Graph of the Greeks </h2>", unsafe_allow_html=True)
 
-sidebar_title = st.sidebar.header(body="Blackscholes Parameters")
+
 st.pyplot(fig1)
 st.pyplot(fig2)
 st.pyplot(fig3)
