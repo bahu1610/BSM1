@@ -1,1 +1,2 @@
-(Streamlit link)[https://am9zfhgdgc2pryjsudy9ia.streamlit.app/]
+- <b> StreamLit Application for my Project</b>
+  - [Black Scholes & Options Greek](https://am9zfhgdgc2pryjsudy9ia.streamlit.app/)
